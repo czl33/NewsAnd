@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="voicew">
+        <item>小燕</item>
+        <item>小宇</item>
+        <item>小研</item>
+        <item>小琪</item>
+        <item>小峰</item>
+        <item>小梅</item>
+        <item>小倩</item>
+    </string-array>
+
+</resources>
